@@ -1,4 +1,4 @@
-package student.entity;
+package com.example.auth.student.entity;
 
 public class Student {
 
